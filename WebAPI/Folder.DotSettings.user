@@ -1,0 +1,50 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=21b1bb68_002Df51b_002D4acd_002D96c0_002D3b856b93f3a2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFolder&gt;19ECFC14-2FEF-6913-DE92-8C545830ACAC/d:Tests/d:Tests&lt;/ProjectFolder&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8b4adb3d_002D662a_002D4f1e_002D9e52_002Df791c8f197fd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;And&gt;
+      &lt;Or&gt;
+        &lt;And&gt;
+          &lt;ProjectFolder&gt;19ECFC14-2FEF-6913-DE92-8C545830ACAC/d:Tests/d:Tests&lt;/ProjectFolder&gt;
+          &lt;TestAncestor&gt;
+            &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.CourseControllerTest&lt;/TestId&gt;
+            &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.ImportTest&lt;/TestId&gt;
+            &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.QuestionControllerTest&lt;/TestId&gt;
+            &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.QuestionnaireControllerTest&lt;/TestId&gt;
+            &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.TagControllerTest&lt;/TestId&gt;
+            &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.TextCategoryTest&lt;/TestId&gt;
+            &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.TextControllerTest&lt;/TestId&gt;
+            &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.UserControllerTest&lt;/TestId&gt;
+          &lt;/TestAncestor&gt;
+        &lt;/And&gt;
+        &lt;And&gt;
+          &lt;ProjectFolder&gt;19ECFC14-2FEF-6913-DE92-8C545830ACAC/d:Tests/d:Tests&lt;/ProjectFolder&gt;
+          &lt;TestAncestor&gt;
+            &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.Performance.RequestPerformanceTest&lt;/TestId&gt;
+          &lt;/TestAncestor&gt;
+        &lt;/And&gt;
+        &lt;TestAncestor&gt;
+          &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.WordFluencyTest.AdminWorkflow&lt;/TestId&gt;
+        &lt;/TestAncestor&gt;
+      &lt;/Or&gt;
+      &lt;Not&gt;
+        &lt;TestAncestor&gt;
+          &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.ImportTest.Test&lt;/TestId&gt;
+        &lt;/TestAncestor&gt;
+      &lt;/Not&gt;
+    &lt;/And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.ImportTest.Test&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.QuestionnaireTest.ImplicationRecognitionRandomized&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.StatisticsTest.Test&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::19ECFC14-2FEF-6913-DE92-8C545830ACAC::.NETCoreApp,Version=v3.1::WebAPI.Tests.AdminWorkflowTest.ImplicationRecognitionRandomized&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Strato/@EntryIndexedValue">True</s:Boolean>
+	</wpf:ResourceDictionary>

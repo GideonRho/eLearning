@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <service>eLearning</service>
+    <database>elearning</database>
+    <database_host>localhost</database_host>
+    <database_port>5432</database_port>
+    <database_user>user</database_user>
+    <database_password>password</database_password>
+    <image_root>/var/www/html</image_root>
+    <templates_root></templates_root>
+    <email_enable>false</email_enable>
+    <email_redirect>false</email_redirect>
+    <email_redirect_address></email_redirect_address>
+    <email_host></email_host>
+    <email_user></email_user>
+    <email_password></email_password>
+    <email_from_address></email_from_address>
+    <email_name>no-reply</email_name>
+    <user>elearning</user>
+    <asp_environment>Development</asp_environment>
+    <url></url>
+    <url_admin></url_admin>
+    <url_api></url_api>
+</config> 
